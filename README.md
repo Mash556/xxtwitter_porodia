@@ -1,9 +1,7 @@
 
 # Xwitter - пародия на Twitter(X)
 
-![Badge](https://github.com/hellakiddo/last_hackaton_py31/actions/workflows/last_workflow.yml/badge.svg)
 
-Дипломный проект в Maker's, в который мы вложили душу, время и последние нервы. 🥰🥰🥰
 
 ---
 
@@ -15,7 +13,6 @@
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Celery](https://img.shields.io/badge/celery-%234EA94B.svg?style=for-the-badge&logo=celery&logoColor=white)
 ![Gunicorn](https://img.shields.io/badge/gunicorn-%23566595.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-%236946BE.svg?style=for-the-badge&logo=nginx&logoColor=white)
